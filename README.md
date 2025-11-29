@@ -1,10 +1,9 @@
 # eCommercePlat - ai数字经济学结课作业其一
 #### 一个基于Django的全栈电商平台项目，支持全局（未登录）、买家、卖家和管理员4种角色
+
+#### 技术栈 - Django、JavaScript、css
+#### 包依赖 - 见项目内requirements.txt
 （保证100%原创）
-
-# 技术栈 - Django、JavaScript、css
-# 包依赖 - 见项目内requirements.txt
-
 ## 🎯 项目重点
 
 项目着重渲染了以下核心页面：
